@@ -14,6 +14,16 @@ body,
   src: url(../public/fonts/IFKica-Regular.ttf);
 }
 
+::-webkit-scrollbar {
+  width: 8px;
+  height: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #EAC696;
+  border-radius: 15px;
+}
+
 
  
 @layer base {

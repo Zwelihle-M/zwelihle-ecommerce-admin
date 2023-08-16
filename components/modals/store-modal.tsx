@@ -42,7 +42,6 @@ export const StoreModal = () => {
   //create a new store
 
   const onSubmit = async (values: z.infer<typeof formSchema>) => {
-    
     try {
       setLoading(true);
       // store creation start here
@@ -103,8 +102,6 @@ export const StoreModal = () => {
           </Form>
         </div>
       </div>
-
-
     </Modal>
   );
 };

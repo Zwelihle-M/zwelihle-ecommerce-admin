@@ -115,7 +115,6 @@ export default function StoreSwitcher({
                   onSelect={() => onStoreSelect(store)}
                   className="text-sm"
                 >
-                 
                   {/* store icon */}
                   <span>
                     <svg
