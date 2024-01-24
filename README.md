@@ -18,9 +18,10 @@ successful e-commerce business.
 
 ## Demo
 
+https://zwelihle-ecommerce-admin.vercel.app/
+
 ![Ethereal Notes Demo](public/zwelihle-admin-dashboard.png)
 
-https://next-ethereal-notes.vercel.app/
 
 ## Technologies Used
 
