@@ -34,5 +34,5 @@ https://zwelihle-ecommerce-admin.vercel.app/
 ## Installation
 
 - npm install
-- 
-- npx convex dev
+
+
