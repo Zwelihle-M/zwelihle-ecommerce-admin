@@ -22,6 +22,15 @@ https://zwelihle-ecommerce-admin.vercel.app/
 
 ![Ethereal Notes Demo](public/zwelihle-admin-dashboard.png)
 
+## Overview
+Zwelihle E-commerce Admin is tailored to meet the needs of business owners and administrators, offering a comprehensive set of features:
+
+Efficient Product Management: Update and manage your product catalog effortlessly to keep your store up-to-date.
+Streamlined Order Processing: Handle orders efficiently and keep track of inventory to ensure smooth operations.
+Responsive Customer Support: Engage with your customers promptly and effectively to build trust and loyalty.
+Real-time Data Synchronization: Stay informed with real-time updates on your store's performance and customer activity.
+Secure Payment Processing: Integrated with Stripe for secure payment processing, ensuring a safe transaction experience for your customers.
+
 
 ## Technologies Used
 
